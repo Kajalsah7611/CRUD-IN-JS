@@ -16,7 +16,7 @@ A simple web application built with Bootstrap and JavaScript that allows users t
 
 ## Demo
 
-[kajalsah7611.github.io/CRUD-IN-JS/]
+[Try this](kajalsah7611.github.io/CRUD-IN-JS/)
 
 ## Features
 
