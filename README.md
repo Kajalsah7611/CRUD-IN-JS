@@ -16,7 +16,7 @@ A simple web application built with Bootstrap and JavaScript that allows users t
 
 ## Demo
 
-Include a link or a screenshot/gif of your project in action.
+kajalsah7611.github.io/CRUD-IN-JS/
 
 ## Features
 
@@ -43,7 +43,7 @@ Include a link or a screenshot/gif of your project in action.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/course-management-system.git
+   https://github.com/Kajalsah7611/CRUD-IN-JS.git
    ```
 
 2. Open the `index.html` file in your web browser.
